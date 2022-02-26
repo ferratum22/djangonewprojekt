@@ -1,1 +1,1 @@
-djangonewprojekt
+django-start
